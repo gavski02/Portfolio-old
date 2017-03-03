@@ -1,3 +1,6 @@
+*{
+    font-family: 'Cutive Mono', monospace;
+}
 hr {
     border: none;
     height: 5px;
